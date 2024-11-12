@@ -23,7 +23,4 @@ public class Kekayaan {
         this.totalKekayaan = totalKekayaan;
     }
 }
-    /**
-     * @param args the command line arguments
-     */
   
